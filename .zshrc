@@ -1,6 +1,5 @@
 # ─── CONFIGURATION ──────────────────────────────────────────────────────────────
-# Content
-user_name="Jon"  #
+user_name="your_name"  #
 shell_icon="􀟛"   # can be SF Symbols
 dir_divider="/"  #
 dash_char="-"    #
